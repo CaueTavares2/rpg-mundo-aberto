@@ -24,7 +24,7 @@ Um RPG mundo aberto desenvolvido em JavaScript puro, inspirado em jogos de evolu
 
 ## 🌐 Jogar Agora
 
-O jogo está disponível em: [https://SEU-USUARIO.github.io/rpg-mundo-aberto](https://SEU-USUARIO.github.io/rpg-mundo-aberto)
+O jogo está disponível em: [https://CaueTavares2.github.io/rpg-mundo-aberto](https://CaueTavares2.github.io/rpg-mundo-aberto)
 
 ## 👥 Desenvolvimento
 
